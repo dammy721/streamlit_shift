@@ -111,7 +111,7 @@ if st.button("Submit"):
     sender_email = 'your_email@gmail.com'  # 送信元のメールアドレス
     sender_password = 'your_password'  # 送信元のメールアドレスのパスワード
 
-    recipient_email = 'vα.often@gmail.com'  # 送信先のメールアドレス
+    recipient_email = '****'  # 送信先のメールアドレス
 
     subject = 'Contact Us Form Submission'
     message_text = f"Name: {name}\nEmail: {email}\nMessage: {message}"
